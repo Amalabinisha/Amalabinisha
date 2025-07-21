@@ -1,4 +1,4 @@
-👋🏻 Hii, I'm Amala Binisha 
+# 👋🏻 Hii, I'm Amala Binisha 
 
 - 🔭 I’m currently pursuing M.Sc Data Science
 - 🌱 I’m currently learning python,sql and data science concepts
