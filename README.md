@@ -1,16 +1,15 @@
-## Hi there 👋
+👋🏻 Hii, I'm Amala Binisha 
 
-<!--
-**Amalabinisha/Amalabinisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing M.Sc Data Science
+- 🌱 I’m currently learning python,sql and data science concepts
+- 👯 I’m looking to collaborate on various technical teams
+- 💬 Ask me about skills and learnings from my project
+- 📫 Let's Connect:
+  [LinkedIn](https://www.linkedin.com/in/amala-binisha-686b7b2b8)
+- Contact Me:
+- Email: amalabinisha39@gmail.com 
+  
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: A mix of fun and humor
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
